@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0303-range-sum-query-immutable) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0102-binary-tree-level-order-traversal) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
