@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0307-range-sum-query-mutable) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
@@ -43,8 +44,21 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0307-range-sum-query-mutable) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0303-range-sum-query-immutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
