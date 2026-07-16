@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0098-validate-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0102-binary-tree-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0547-number-of-provinces) |
 ## Design
 |  |
 | ------- |
@@ -61,4 +63,12 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0307-range-sum-query-mutable) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
