@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0307-range-sum-query-mutable) |
@@ -57,6 +58,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
 |  |
@@ -79,4 +81,16 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0200-number-of-islands) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
