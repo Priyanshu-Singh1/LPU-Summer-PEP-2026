@@ -6,11 +6,13 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0102-binary-tree-level-order-traversal) |
+| [0113-path-sum-ii](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0113-path-sum-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0098-validate-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
@@ -23,6 +25,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0102-binary-tree-level-order-traversal) |
+| [0113-path-sum-ii](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0113-path-sum-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Array
 |  |
@@ -93,4 +96,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
