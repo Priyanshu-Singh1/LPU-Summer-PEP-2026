@@ -1,0 +1,32 @@
+class Solution {
+    public int isNegativeWeightCycle(int V, int[][] edges) {
+        int[] dist = new int[V];
+        for (int i = 0; i < V; i++) {
+            dist[i] = 0;
+        }
+
+        for (int i = 1; i < V; i++) {
+            for (int[] edge : edges) {
+                int u = edge[0];
+                int v = edge[1];
+                int wt = edge[2];
+
+                if (dist[u] + wt < dist[v]) {
+                    dist[v] = dist[u] + wt;
+                }
+            }
+        }
+
+        for (int[] edge : edges) {
+            int u = edge[0];
+            int v = edge[1];
+            int wt = edge[2];
+
+            if (dist[u] + wt < dist[v]) {
+                return 1;
+            }
+        }
+
+        return 0;
+    }
+}
