@@ -106,4 +106,13 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0070-climbing-stairs) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
