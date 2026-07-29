@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0063-unique-paths-ii) |
 | [0169-majority-element](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0303-range-sum-query-immutable) |
@@ -83,6 +84,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0113-path-sum-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
