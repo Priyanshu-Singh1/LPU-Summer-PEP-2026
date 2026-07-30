@@ -108,6 +108,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0213-house-robber-ii) |
@@ -115,9 +116,14 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
