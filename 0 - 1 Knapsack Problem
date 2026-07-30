@@ -1,0 +1,48 @@
+class Solution {
+    /*public int help(int idx, int limit, int[] val, int[] wt, int[][] dp)
+    {
+        if(idx == 0){
+            if(wt[0] <= limit) return val[0];
+            return 0;
+        }
+        
+        if(dp[idx][limit] != -1) return dp[idx][limit];
+        
+        int notTake = help(idx - 1, limit, val, wt, dp);
+        int take = Integer.MIN_VALUE;
+        if(wt[idx] <= limit)
+        {
+            take = val[idx] + help(idx - 1, limit - wt[idx], val, wt, dp);
+        }
+        
+        return dp[idx][limit] = Math.max(notTake, take);
+    }*/
+    public int knapsack(int W, int val[], int wt[]) {
+        // code here
+        int n = wt.length;
+        int[][] dp = new int[n][W+1];
+        
+        //Base Case
+        for(int j = 0; j <= W; j++)
+        {
+            if(wt[0] <= j) dp[0][j] = val[0];
+        }
+        
+        for(int i = 1; i < n; i++)
+        {
+            for(int j = 0; j <= W; j++)
+            {
+                int notTake = dp[i - 1][j];
+                int take = Integer.MIN_VALUE;
+                if(wt[i] <= j)
+                {
+                    take = val[i] + dp[i - 1][j - wt[i]];
+                }
+                dp[i][j] = Math.max(notTake, take);
+            }
+        }
+        
+        return dp[n-1][W];
+        
+    }
+}
