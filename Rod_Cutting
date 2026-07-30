@@ -1,0 +1,25 @@
+class Solution {
+    public int memoFunc(int n, int[] arr, int[] dp)
+    {
+        if(n == 0) return 0;
+        
+        if(dp[n] != -1) return dp[n];
+        
+        int max = 0;
+        for(int i = 0; i < n; i++)
+        {
+            max = Math.max(max, arr[i] + memoFunc(n - i - 1, arr, dp));
+        }
+        return dp[n]=max;
+    }
+    
+    public int cutRod(int[] price) {
+        // code here
+        int n = price.length;
+        int[] dp = new int[n + 1];
+        //if(n == 1) return price[1];
+        Arrays.fill(dp, -1);
+        //dp[0] = price[0];
+        return memoFunc(n, price, dp);
+    }
+}
