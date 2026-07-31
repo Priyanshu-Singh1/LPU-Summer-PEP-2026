@@ -113,6 +113,7 @@
 | [0070-climbing-stairs](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0322-coin-change) |
+| [1143-longest-common-subsequence](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -126,4 +127,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0062-unique-paths) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
