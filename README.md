@@ -38,6 +38,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/0322-coin-change) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Priyanshu-Singh1/LPU-Summer-PEP-2026/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Stack
 |  |
 | ------- |
